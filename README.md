@@ -2,7 +2,7 @@
 
 [view in browser](https://codingstar-jason.github.io/3D-Flip-Book-Tutorial-Customized-CodingStar/)
 
-[CUSTOM VERSION](https://humzadesigns.github.io/XCHANGE-EBOOK-V2/)
+[CUSTOM VERSION](https://humzadesigns.github.io/XCHANGE-E-Book/)
 
 ### Shoutout 🙌
 
